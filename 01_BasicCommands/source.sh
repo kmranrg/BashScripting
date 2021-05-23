@@ -24,7 +24,7 @@ chmod +x new_file.sh
 printf "\n7. List all files and folders present in the directory:\n"
 ls -al
 
-# OUTPUT
+# OUTPUT:
 
 # 1. Together hash symbol and excalamation symbol is known as Shebang(#!)
 
