@@ -35,7 +35,7 @@ This is amazing, isn't it?
 anurag
 # anurag on above line is end delimiting identifier
 
-: '
+: "
 OUTPUT:
 
 1) Single Line Comment:
@@ -47,4 +47,4 @@ Here we can write anything...
 And whatever we type here, is gonna print in output
 This is amazing, isn't it?
 :)
-'
+"
