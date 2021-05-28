@@ -4,7 +4,7 @@
 Theory:
 
 1) The bash case statement is generally used to simplify complex
-   conditionals when you have multiple different choices.
+   conditions when you have multiple different choices.
 2) Using the case statement instead of nested if statements will
    help you make your bash scripts more readable and easier to maintain.
 3) The Bash case statement has a similar concept with the Javascript or
@@ -56,3 +56,10 @@ case $COUNTRY in
         echo "unknown"
         ;;
 esac
+
+: "
+OUTPUT:
+
+Enter the name of a country: San Marino
+The official language of San Marino is: Italian
+"

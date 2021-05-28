@@ -153,7 +153,7 @@ fi
 
 # Method 3
 age=5
-if [ $age -gt 4 -o $age -lt 6 ]
+if [ $age -gt 4 -o $age -lt 6 ] # -o stands for OR
 then
     echo "age is correct"
 else
