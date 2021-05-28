@@ -159,3 +159,45 @@ then
 else
     echo "age is not correct"
 fi
+
+: "
+OUTPUT:
+
+1) Simple if-fi
+the condition is true
+
+2) if-else-fi 
+count is not equal to 10
+
+3) if-elif-else-fi
+count is equal to 100
+
+4) Nested if-else
+count is neither 99 nor 101
+
+5) Greater than comparison
+count is greater than 3
+count is greater than 3
+
+5) Less than comparison
+count is less than 6
+count is less than 6
+
+6) Greater than equals to comparison
+count is greater than equals to 6
+count is greater than equals to 6
+
+7) Lesser than equals to comparison
+count is lesser than equals to 6
+count is lesser than equals to 6
+
+8) AND(&&) Operator
+age is correct
+age is correct
+age is correct
+
+9) OR(||) Operator
+age is correct
+age is correct
+age is correct
+"

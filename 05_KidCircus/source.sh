@@ -10,3 +10,6 @@ then
 else
     echo "Oh O! This circus is just for kids."
 fi
+
+# OUTPUT:
+# Welcome to Kids Circus. Enjoy amazing rides!
