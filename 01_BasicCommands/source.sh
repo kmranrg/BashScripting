@@ -2,7 +2,7 @@
 
 # How to execute this file: Open terminal and type the following commands
 # (i) chmod +x source.sh
-# (ii) ./source.sh
+# (ii) bash source.sh
 
 echo "1. Together hash symbol and excalamation symbol is known as Shebang(#!)"
 

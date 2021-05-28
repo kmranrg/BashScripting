@@ -1,6 +1,8 @@
 #! /bin/bash
 
-age=15
+echo -n "Hi Kid, please tell me your age: "
+read age
+
 if [ $age -ge 13 ] && [ $age -le 19 ]
 then
     echo "Welcome to Kids Circus. Enjoy amazing rides!"
@@ -11,5 +13,9 @@ else
     echo "Oh O! This circus is just for kids."
 fi
 
-# OUTPUT:
-# Welcome to Kids Circus. Enjoy amazing rides!
+: "
+OUTPUT:
+
+Hi Kid, please tell me your age: 15
+Welcome to Kids Circus. Enjoy amazing rides!
+"
