@@ -1,5 +1,13 @@
 #! /bin/bash
 
+: "
+How to execute this file?
+
+Open terminal in this file location and type the following command
+
+bash source3.sh demo.txt
+"
+
 printf "\n1) Read from a file (by taking filename as input from user) and print the output\n"
 
 lineNo=1
