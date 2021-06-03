@@ -6,7 +6,7 @@ echo "Hello World! Anurag this side." > output_file.txt
 printf "\n2) Make 10 text files by just one bash command\n"
 touch {1..10}.txt
 
-printf "\n3) Open the output_file.txt in terminal and write some line at the end\n"
+printf "\n3) Open the output_file.txt in terminal and write some lines at the end\n"
 printf "Line: "
 cat >> output_file.txt # Hint: Press Ctrl+D to enter the terminal editor mode
 
