@@ -4,6 +4,8 @@
 
 Enjoy BASH!
 
-#### System Configuration Used:
+## System Configuration Used:
 + OS: Ubuntu 21.04 x86_64
 + Bash Version: GNU bash, version 5.1.4(1)-release (x86_64-pc-linux-gnu)
+
+My Sincere thanks to <a href="https://linuxhint.com/">LinuxHint</a>, without them this wouldn't be possible. 
