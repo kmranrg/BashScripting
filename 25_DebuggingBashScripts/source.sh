@@ -12,7 +12,7 @@ else
     echo "Hello User!"
 fi
 
-echos "Hello World!" # here we will get error because 'ehcos' is not a 
+echos "Hello World!" # here we will get error because 'echos' is not a command
 
 : "
 OUTPUT:
